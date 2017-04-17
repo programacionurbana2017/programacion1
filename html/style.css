@@ -1,0 +1,37 @@
+
+
+#titulo{
+	color:orange;
+	}
+#titulo2{
+	color:WHITE;
+	}	
+#tituloh5{
+	color:green;
+}
+.clase{
+	color:yellow
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 30px;
+}        	
+table {
+    border-spacing: 10px;
+}
+th {
+    text-align: center;
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+table#t01 th {
+    color: white;
+    background-color: black;
+}
