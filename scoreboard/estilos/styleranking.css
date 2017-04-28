@@ -57,3 +57,10 @@ tr.titulo{
 td.titulo{
 	background-color: white;
 }	
+
+td.titulo1{
+	font-size: 25px;
+	text-decoration: none;
+	color: #3A3A38;
+	font-family: impact;
+}	
